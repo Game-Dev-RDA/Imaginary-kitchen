@@ -65,6 +65,14 @@
 * במידה ושחקן מצליח להכין את המנה הדרושה בזמן המוקצב הוא יקבל כסף. במידה ולא, הוא לא יקבל כסף.
 * השחקן ילמד את המשחק ע"י כך שהשלב הראשון יהיה ידידותי וקליל למשתמש ויהווה גם הכנה לרמות קושי גבוהות יותר.
 
+<p align="center">
+ <img
+   src="/images/time_out.png"
+   alt="time_out"
+   title="time_out"
+   style="display: inline-block; width: 400px; height: 400px; margin-left: auto; margin-right: auto;">
+ </p>
+
 
 ### 5. משאבים
 
