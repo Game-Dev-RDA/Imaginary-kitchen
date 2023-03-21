@@ -28,6 +28,14 @@
 * המשחק מיועד לשחקן אחד המשחק מול המערכת.
 * המשחק הינו משחק תחרותי.
 
+<p align="center">
+ <img
+   src="/images/not-under-10.jpg"
+   alt="not-under-10"
+   title="not-under-10"
+   style="display: inline-block; width: 2oopx; height: 200px; margin-left: auto; margin-right: auto;">
+ </p>
+
 ### 2. יעדים
 
 * השחקן מקבל הזמנה כמו במסעדה ועליו להכין את המנה תוך זמן מסוים.
