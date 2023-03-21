@@ -51,6 +51,14 @@
 * יקבל תובפת זמן בשלב מסוים. שחקן שמצליח לספק כמות שהוזמנו ברצף(Combo).
 * המשחק יתבצע על ידי העכבר מחשב.
 
+<p align="center">
+ <img
+   src="/images/order-cooks-hierarchical.png"
+   alt="order-cooks-hierarchical"
+   title="order-cooks-hierarchical"
+   style="display: inline-block; width: 400px; height: 400px; margin-left: auto; margin-right: auto;">
+ </p>
+
 ### 4. חוקים
 
 * החוק העיקרי שיגביל את הפעולות של השחקן במשחק הוא חוק העמידה בזמנים.
