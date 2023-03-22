@@ -139,11 +139,32 @@
    style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
 </p>
 
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
+ ### Cooking in the Kitchen game:
+ 
+https://play.google.com/store/apps/details?id=com.tgg.kidscooking&hl=en
+ 
+<p align="center">
+ <img
+   src="/images/cooking-in-the-kitchen.png"
+   alt="cooking-in-the-kitchen"
+   title="cooking-in-the-kitchen"
+   style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
+</p>
 
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
+ ### Cooking Madness:
+ 
+ https://play.google.com/store/apps/details?id=com.biglime.cookingmadness&hl=en
+ 
+<p align="center">
+ <img
+   src="/images/Cooking-madness-app.jpg"
+   alt="Cooking-madness"
+   title="Cooking-madness"
+   style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
+</p>
 
+* בשביל שהמשחק שלנו יהיה שונה משל המתחרים ניצור שלבים שונים למשחק שכל שלב יאפיין את המשחק באופן מסויים.
+
+* הרכיב שמדגיש את הייחודיות של המשחק הוא שהאוכל יכול להשרף וניתן לעשות כמה הזמנות במקביל כך שזה מקשה יותר ומאתגר יותר מהמשחקים הפשוטים.
 
 </div>
