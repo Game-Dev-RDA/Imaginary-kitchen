@@ -131,13 +131,13 @@
  
  https://www.culinaryschools.org/kids-games/burger-maker/
  
- <p align="center">
+<p align="center">
  <img
    src="/images/burger_maker.png"
    alt="burger_maker"
    title="burger_maker"
    style="display: inline-block; width: 300px; height: 300px; margin-left: auto; margin-right: auto;">
- </p>
+</p>
 
 * שימו קישור וצילום-מסך להמחשה.
 * הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
