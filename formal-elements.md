@@ -70,7 +70,7 @@
    src="/images/time_out.png"
    alt="time_out"
    title="time_out"
-   style="display: inline-block; width: 400px; height: 400px; margin-left: auto; margin-right: auto;">
+   style="display: inline-block; width: 400px; height: 200px; margin-left: auto; margin-right: auto;">
  </p>
 
 
@@ -82,6 +82,15 @@
 * המשאבים יהיו במטבח של השחקן.
 * עיצוב המשחק יהיה בצורה הבאה: מטבח שבתוכו יש מלא מצרכי מזון וכלי מטבח שונים ומגוונים. לחץ ההזמנות והזמן הרצוי לכל הזמנה יהווה את הקושי בקורדינציה של בחירת המצרכים וכלי המטבח הנכונים למנה הרצויה.
 * המשחק יודיע מה המצרכים וכלי המטבח הדרושים להכנת ההזמנה על ידי הפתק הראשוני שהשחקן מקבל בתחילת כל הזמנה. בפתק יהיו מפורטים כלל המשאבים.
+
+
+<p align="center">
+ <img
+   src="/images/food.png"
+   alt="food"
+   title="food"
+   style="display: inline-block; width: 400px; height: 400px; margin-left: auto; margin-right: auto;">
+ </p>
 
 ### 6. עימותים
 
